@@ -9,14 +9,18 @@ This python 2.7 program is designed to be used in an interactive python environm
 This software will:  
 
 (1) initialize the spectrometer via ocean optics seabreeze drivers.
+
 (2) initialize the MBED ADCS
+
 (3) acquire dark, blank, and sample spectra
+
 (4) visualize in real time, the raw spectrum, the absorbance spectrum, and system temperatures
 
 ![(4) visualize in real time, the raw spectrum, the absorbance spectrum, and system temperatures](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/Acquisitionscreen.png?raw=true)
 (5) provide interactive views of various absorbances and raw spectra of saved samples
 ![(5) provide interactive views of various absorbances and raw spectra of saved samples](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/postanneal1050-1150.png)
 (6) acquire data via 'monitor mode' or via scripting supported function call
+
 (7) save / load data via pickle
 
 Additionally the analysis software will:
