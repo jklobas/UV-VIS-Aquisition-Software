@@ -24,6 +24,7 @@ Additionally the analysis software will:
 ![experiment as acquired](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/experimental.png)
 (3) perform multicomponent optimization via selected scipy.optimize method
 (4) visualize fits as 3D plots and 2D plots, as well as system diagnostic information
+![2D fit of chlorine](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/Cl2lin.png)
 ![Diagnostic information](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/ramp.png)
 ![simulated spectra from fit](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/simulated.png?raw=true)
 
