@@ -9,7 +9,7 @@ This python 2.7 program is designed to be used in an interactive python environm
 This software will:  
 
 (1) initialize the spectrometer via ocean optics seabreeze drivers.
-(2) initialize the MBED adcs
+(2) initialize the MBED ADCS
 (3) acquire dark, blank, and sample spectra
 (4) visualize in real time, the raw spectrum, the absorbance spectrum, and system temperatures
 
@@ -21,7 +21,10 @@ This software will:
 
 Additionally the analysis software will:
 (1) import and slice/interpolate sample and reference standard data
+
 (2) visualize acquired data as 3D plots and 2D plots
+
+
 ![experiment as acquired](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/experimental.png)
 (3) perform multicomponent optimization via selected scipy.optimize method
 
