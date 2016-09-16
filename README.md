@@ -12,6 +12,7 @@ This software will:
 (2) initialize the MBED adcs
 (3) acquire dark, blank, and sample spectra
 (4) visualize in real time, the raw spectrum, the absorbance spectrum, and system temperatures
+
 ![(4) visualize in real time, the raw spectrum, the absorbance spectrum, and system temperatures](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/Acquisitionscreen.png?raw=true)
 (5) provide interactive views of various absorbances and raw spectra of saved samples
 ![(5) provide interactive views of various absorbances and raw spectra of saved samples](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/postanneal1050-1150.png)
@@ -23,6 +24,7 @@ Additionally the analysis software will:
 (2) visualize acquired data as 3D plots and 2D plots
 ![experiment as acquired](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/experimental.png)
 (3) perform multicomponent optimization via selected scipy.optimize method
+
 (4) visualize fits as 3D plots and 2D plots, as well as system diagnostic information
 ![2D fit of chlorine](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/Cl2lin.png)
 ![Diagnostic information](https://github.com/jklobas/UV-VIS-Aquisition-Software/blob/master/ramp.png)
